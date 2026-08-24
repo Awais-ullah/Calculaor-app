@@ -24,6 +24,8 @@ A simple and modern **Calculator App** built with **Flutter and Dart**. This pro
 
 ### Prerequisites
 
+Make sure you have Flutter installed on your computer.
+
 
 
 ### Installation
